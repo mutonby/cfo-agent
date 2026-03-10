@@ -1,0 +1,16 @@
+# Credentials - NEVER commit these
+config.json
+state.json
+
+# Google tokens
+token.json
+client_secret.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db

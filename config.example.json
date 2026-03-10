@@ -1,0 +1,11 @@
+{
+  "ponto": {
+    "client_id": "your-ponto-client-id-here",
+    "client_secret": "your-ponto-client-secret-here",
+    "account_id": "your-ponto-account-id-here"
+  },
+  "google": {
+    "spreadsheet_id": "your-google-sheet-id-here",
+    "folder_id": "your-google-drive-folder-id-here"
+  }
+}
